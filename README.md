@@ -1,6 +1,6 @@
 # Edit: Link to current meta branch of ROCm 5.5 b&b
 
-[See branch here for superior repo]([url](https://github.com/evshiron/bitsandbytes-rocm))
+[See branch here for superior repo](https://github.com/evshiron/bitsandbytes-rocm)
 
 # bitsandbytes-rocm-7900XT
 
