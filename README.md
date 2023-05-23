@@ -1,3 +1,7 @@
+# Use the following branch:
+This version of bitsandbytes is based off v0.35. From v0.37 8bit optimisation has been added to all GPUs, install the [following branch of 0.37 bnb with rocm support](https://github.com/agrocylo/bitsandbytes-rocm/).
+
+
 # bitsandbytes-rocm-7900XT
 
 This is a branch of the bitandbytes-rocm repo, with minor updates to enable running ROCm 5.5 & 7900XT. As mentioned in "Compiling from source", it is likely this will build on 6000 series etc, but you may need to ammend the maker file to reflect your card. 
