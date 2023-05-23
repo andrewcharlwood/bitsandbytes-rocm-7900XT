@@ -1,7 +1,3 @@
-# Edit: Link to current meta branch of ROCm 5.5 b&b
-
-[See branch here for superior repo](https://github.com/evshiron/bitsandbytes-rocm)
-
 # bitsandbytes-rocm-7900XT
 
 This is a branch of the bitandbytes-rocm repo, with minor updates to enable running ROCm 5.5 & 7900XT. As mentioned in "Compiling from source", it is likely this will build on 6000 series etc, but you may need to ammend the maker file to reflect your card. 
